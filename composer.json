@@ -1,0 +1,20 @@
+{
+    "name": "affinity4/thistle",
+    "description": "MPC (Model Presenter Controller) Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Watts",
+            "email": "luke@affinity4.ie"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Affinity4\\Thistle\\": "src/",
+            "Affinity4\\Thistle\\App\\": "app/"
+        }
+    },
+    "require": {
+        
+    }
+}
